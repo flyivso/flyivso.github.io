@@ -27,4 +27,4 @@ branches:
 
 env:
  global:
-   - GH_REF=git@github.com:flyivso/flyivso.github.io.git
+   - GH_REF=github.com:flyivso/flyivso.github.io.git
